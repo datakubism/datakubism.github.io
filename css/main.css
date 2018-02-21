@@ -1,8 +1,8 @@
-/* Main page with stikky-footer */
+	/* Main page with stikky-footer */
 html, body {
   height: 100%;
   background-color: #fff;
-  font-family: 'Arima Madurai', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
   border-top: 3px solid #005073;
   color:#005073;
@@ -95,6 +95,7 @@ html, body {
   margin: 60px 0;
   color: #005073;
   font-size: 68px;
+  font-family: 'Arima Madurai', sans-serif;
 }
 .containerH2 {
   color: #005073;
