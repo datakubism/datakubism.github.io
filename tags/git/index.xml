@@ -17,7 +17,8 @@
       <pubDate>Mon, 19 Feb 2018 21:13:14 -0500</pubDate>
       
       <guid>/blog/git_workflow/</guid>
-      <description>This document aims to describe a Data Science workflow which I am an advocate for. Data Science is a broad field which involves lots of coding. In order not to get lost in your own code it is vital to follow some guidelines. Most of the points discussed in this document have been borrowed from software engineering. After all it is a much more mature field and best practices have managed to shiny out and stay around.</description>
+      <description>Data Science is a broad field which involves lots of coding. In order not to get lost in your own code, it is vital to follow some guidelines. Most of the points discussed in this post have been borrowed from software engineering. After all it is a much more mature field and best practices have managed to shine out and stay around.
+I will try to be as concise as possible but at the same time I will try to cover all main things which need to be considered.</description>
     </item>
     
   </channel>

@@ -110,6 +110,11 @@ html, body {
  height: auto;
  max-width: 100%;
 }
+.figure {
+ display: block;
+ height: auto;
+ max-width: 100%;
+}
 .panel-default h4 {
   text-align: left;
   line-height: 24px;
