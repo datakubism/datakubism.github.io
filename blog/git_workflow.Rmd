@@ -279,4 +279,4 @@ you want to know more about it.
   As this post has become a bit longer than envisioned, I will go through the git
 workflow example in another article.
 
-[^1]: Credits for the workflow pics to [www.attlassian.com ](https://www.atlassian.com)
+[^1]: Credits for the workflow pics to [www.atlassian.com ](https://www.atlassian.com)
