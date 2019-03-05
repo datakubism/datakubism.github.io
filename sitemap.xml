@@ -3,112 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/git_workflow/</loc>
-    <lastmod>2018-02-19T21:13:14-05:00</lastmod>
+    <loc>/blog/super_detractors_model/</loc>
+    <lastmod>2019-01-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/about/</loc>
-    <lastmod>2018-02-18T22:53:05-04:00</lastmod>
+    <loc>/blog/transactional_data/</loc>
+    <lastmod>2018-11-17T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/team/team/</loc>
-    <lastmod>2018-02-18T22:53:05-04:00</lastmod>
+    <loc>/blog/text_analytics/</loc>
+    <lastmod>2018-11-13T19:14:11+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <loc>/blog/ocenime_bg/</loc>
+    <lastmod>2018-03-03T13:33:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/about/</loc>
-    <lastmod>2018-02-18T22:53:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/about/</loc>
-    <lastmod>2018-02-18T22:53:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2018-02-18T22:53:05-04:00</lastmod>
-    <priority>0</priority>
+    <loc>/blog/survival_in_credit_risk/</loc>
+    <lastmod>2018-02-08T17:32:12+06:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2018-02-19T21:13:14-05:00</lastmod>
+    <lastmod>2019-01-12T12:52:36+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2018-02-18T22:53:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/git/</loc>
-    <lastmod>2018-02-19T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/projects/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/projects/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2018-02-19T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2018-02-19T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-02-18T22:53:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/team/</loc>
-    <lastmod>2018-02-18T22:53:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/team/</loc>
-    <lastmod>2018-02-18T22:53:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/team/</loc>
-    <lastmod>2018-02-18T22:53:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-02-19T21:13:14-05:00</lastmod>
+    <lastmod>2019-01-12T12:52:36+06:00</lastmod>
     <priority>0</priority>
   </url>
   
