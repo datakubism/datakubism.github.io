@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on dataKubism</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on dataKubism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Jan 2019 12:52:36 +0600</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reducing Churn Rate Using Super-Detractor Identification Model</title>
+      <link>/blog/super_detractors_model/</link>
+      <pubDate>Sat, 12 Jan 2019 12:52:36 +0600</pubDate>
+      
+      <guid>/blog/super_detractors_model/</guid>
+      <description>This project won the 2018 MRS award for innovation in Data Analytics.
+The Problem: The client uses customer satisfaction surveys to identify and contact unhappy customers (super-detractors). However, only a fraction of the customers filled out the NPS surveys, and a ML solution for identifying super detractors was needed.
+Our Approach: By analyzing usage and transaction data we managed to rank customers in terms of their likelihood of being super detractors.</description>
+    </item>
+    
+    <item>
+      <title>Customer Segmentation Based on Transactional Data</title>
+      <link>/blog/transactional_data/</link>
+      <pubDate>Sat, 17 Nov 2018 14:51:12 +0600</pubDate>
+      
+      <guid>/blog/transactional_data/</guid>
+      <description>The Problem: The client wanted to deep dive into their transactional data, and identify cross-sell opportunities. Affordability index was to be estimated based on the current account data, and possible further uses of this data across a number of operational areas was to be examined.
+Our Approach: All transactions were classified on account level, thus, we were able to calculate disposable income per account. In addition, High Risk Triggers were identified within transaction history.</description>
+    </item>
+    
+    <item>
+      <title>Text Analytics in Manager&#39;s Service</title>
+      <link>/blog/text_analytics/</link>
+      <pubDate>Tue, 13 Nov 2018 19:14:11 +0600</pubDate>
+      
+      <guid>/blog/text_analytics/</guid>
+      <description>The Problem: The client wanted to know what their customers were most happy of and respectively what they disliked the most. Usually such feedback comes in the form of open-ended questions in their CRM system. Therefore, in order to understand customers best, text analysis was needed.
+Our Approach: All open-ended questions were classified into topics. For each of the topics, sentiment was calculated. Afterwards, most negative and most positive topics were identified, as well as most reoccurring ones.</description>
+    </item>
+    
+    <item>
+      <title>Automatic Detection of Thoracic Diseases based on X-Ray Images</title>
+      <link>/blog/x_ray/</link>
+      <pubDate>Wed, 17 Oct 2018 11:33:12 +0600</pubDate>
+      
+      <guid>/blog/x_ray/</guid>
+      <description>The Problem: The client wanted to develop an automated system for recognizing and localising thoracic diseases based on xray images.
+Our Approach: A computer vision model was developed and trained to predict 8 different conditions on several hundred thousands of xray images. Each label prediction was accompanied by a heatmap, showing the most likely location of the disease. Due to the small amount of training data, a custom network topography optimization algorithm was developed, based on a separate constructor RNN, learning to build the predictive CNN iteratively using reinforcement learning.</description>
+    </item>
+    
+    <item>
+      <title>Real Estate Valuation Portal</title>
+      <link>/blog/ocenime_bg/</link>
+      <pubDate>Sat, 03 Mar 2018 13:33:12 +0600</pubDate>
+      
+      <guid>/blog/ocenime_bg/</guid>
+      <description>The Problem: Lack of information on the real estate marketplace put potential buyers in an unfavorable position. Lots of fake, duplicated, and outdated adds are present on the market.
+Our Approach: All open-source information for the Sofia’s real estate market was collected and presented in an understandable and easy-to-use web application. Model to evaluate every single apartment on the market was developed based on all available data.
+Deliverables: People are now able to inspect their neighbourhood and assess what their property is worth at www.</description>
+    </item>
+    
+    <item>
+      <title>Application of Survival Analysis in Credit Risk Modeling</title>
+      <link>/blog/survival_in_credit_risk/</link>
+      <pubDate>Thu, 08 Feb 2018 17:32:12 +0600</pubDate>
+      
+      <guid>/blog/survival_in_credit_risk/</guid>
+      <description>The Problem: The client wanted to explore new ways of modelling credit default risk of existing customers by employing all available historic data and taking into account the inherent time aspect of the problem.
+Our Approach: dataKubism’s team explored the adoption of duration analysis models in the workflow of the customer. Real customer data from several commercial banks was used. The model combined deep learning with traditional statistics to give a more detailed view of the customers probability of default over time.</description>
+    </item>
+    
+  </channel>
+</rss>
